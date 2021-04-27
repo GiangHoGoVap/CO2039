@@ -1,0 +1,28 @@
+OOP W2 Lab 2 C++
+
+Prepared by Dr Han Duy Phan.
+
+Requirements:
+Improve the simple C++ student management program from Lab 1. For this week you need to keep the information of each student's name and their score in two separate dynamically allocated arrays using pointers.
+(1) Use C++ dynamic array data structure using pointers to store two lists of all students' names and students' scores, 1 list for students' names & 1 list for student' scores.
+(2) Implement a function that allows users to add a new student and the corresponding score to the two above lists.
+(3) Implement a function to display the list of all students and the scores.
+(4) Implement a function to display the best student(s)'s name(s) and their score(s) (there could be more than one student who have the same highest score).
+(5) Use C++ WHILE loop to create a text-based menu that allows users to choose the above functionalities or to exit the program.
+
+Submission: 
+Create a zip file of all your .cpp and .h project files.
+Make sure to name your zip file using the following format
+[StudentID]_[StudentFullName]_[ClassName]_Lab1.zip
+Submit your zip file before the deadline using the corresponding link on Moodle for your class (each class has a different deadline).
+
+Marking criteria: 
+Each lab is worth 3% of total mark.
+No attempt 0 mark, serious attempt 1 mark, working attempt 2 marks, good attempt 3 marks.
+
+Resources:
+(1) Weekly slides
+(2) C++ How to Program, 9th Edition, Paul Deitel
+(3) Object-Oriented Programming in C++, 4th Edition, Robert Lafore
+(4) http://www.cplusplus.com/doc/tutorial/dynamic/
+(5) https://www.geeksforgeeks.org/pointers-vs-references-cpp/
